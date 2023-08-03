@@ -29,12 +29,13 @@
 #www.google.com
 #wwwimage-us.pplusstatic.com
 *.cbsi.com
-cbsinteractive.data.adobedc.net
 cbsi.com.ssl.sc.omtrdc.net
+cbsinteractive.data.adobedc.net
 cbsinteractive.hb.omtrdc.net
 imasdk.googleapis.com
 mobile-collector.newrelic.com
 paramountplus.com
+paramountplus.com.data.adobedc.net
 s0.2mdn.net
 tags.tiqcdn.com
 www.paramountplus.com
